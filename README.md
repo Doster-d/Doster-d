@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Doster-d
-- 👀 I'm currently focusing on **web interfaces** and **game development**
+- 👀 I'm currently focusing on **game development**
 - 🌱 I’m currently learning C++/C
 - 💞️ I’m looking to collaborate on open source projects.
 - **I** ❤️ **to code things**
