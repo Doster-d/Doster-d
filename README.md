@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++/C
 - 💞️ I’m looking to collaborate on open source projects.
 - **I** ❤️ **to code things**
+- To donate me a coffe visit [Boosty](https://boosty.to/dosterd)
 
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/Doster-d/ismlhbb.svg?cache=remove)](#)
